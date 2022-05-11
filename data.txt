@@ -1,3 +1,5 @@
 Microphone
 Speaker
 Home botton
+Charging cable
+Pendrive
