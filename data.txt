@@ -3,3 +3,5 @@ Speaker
 Home botton
 Charging cable
 Pendrive
+git 
+maven
